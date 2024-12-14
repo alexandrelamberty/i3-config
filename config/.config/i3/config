@@ -16,7 +16,7 @@ set $ws6 "6: feed"
 set $ws7 "7: 7"
 set $ws8 "8: 8"
 set $ws9 "9: 9"
-set $ws0 "0: 0"
+set $ws10 "10: 10"
 
 include $HOME/.config/i3/colors.conf
 include $HOME/.config/i3/exec.conf
@@ -25,4 +25,3 @@ include $HOME/.config/i3/keybinds.conf
 include $HOME/.config/i3/modes.conf
 include $HOME/.config/i3/windows.conf
 include $HOME/.config/i3/workspaces.conf
-

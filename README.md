@@ -7,6 +7,3 @@ Window manager configuration
 Create a local configuration for your workspaces and screens assignments
 
 ## References
-
-- <>
-
